@@ -1,0 +1,15 @@
+[20, 25, 4, 43, 10, 30, 62, 60, 1, 18, 39, 33]
+
+
+[1] is often associated with proper nouns or names like "Lily," "Jack," "Sam," "Mia," etc.
+[10] is frequently used with nouns or objects like "clothes," "castle," "blocks," "dog," "phone," etc.
+[18] is commonly associated with possessive pronouns or determiners like "her," "his," "the," etc.
+[25] is often used with personal pronouns like "she," "he," "they," "you," etc.
+[43] is frequently associated with adjectives or descriptive words like "different," "happy," "tired," "mysterious," "sorry," etc.
+[4] is often used with verbs or action words that drive the narrative forward.
+[20] is frequently used at the end of sentences, possibly indicating a sentence boundary or punctuation.
+[33] is used for commas
+[39] is often associated with prepositions like "to," "with," "from," "at," etc.
+[62] is commonly used with auxiliary verbs or modifiers like "was," "were," "did," "had," "not," etc.
+[30] is "and"
+[60] is new lines
